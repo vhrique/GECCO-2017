@@ -1,2 +1,4 @@
 # jupyter
-Jupyter notebooks
+Repository for vhrique's Jupyter notebooks.
+
+

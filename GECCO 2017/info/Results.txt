@@ -1,0 +1,24 @@
+GECCO Challenge 2017 Results
+Submission Evaluation
+
+For the evaluation of the submitted online-methods, the methods have been executed on a dataset unknown to the participants. The quality of the detector is then calculated using the F1 score, the harmonic mean of precision and recall, which is defined as:
+
+F1 = 2 · (PPV · TPR) / (PPV + TPR)
+with
+
+PPV = ∑ TruePositive / ∑ PredictionPositive
+and
+
+TPR = ∑ TruePositive / ∑ConditionPositive ,
+so that PPV describes the ration between the number of true positive predictions and the number of all positive predictions while TPR the ratio between the number of true positive predictions and the number of actual events. Per definition this score ranges from values from 0 to 1, with 1 being the best achievable score.
+
+Detailed Results
+
+Please click on a row for additional information.
+
+SUBMISSION	TP	FP	TN	FN	F1 SCORE
+FITORE MUHAREMI	472	636	120670	556	0.44194757
+RISHAB DHAR, JAGRUTI GUNJAL, SURABHI JADHAV	487	9707	111599	541	0.08679380
+LAM GIA THUAN (CRAZY METHOD)	242	24392	96914	786	0.01886057
+ROMAN BERNEBURG, JAN BICKEL, MARCUS LEGENDRE	234	32662	88644	794	0.01379554
+LAM GIA THUAN (BASIC METHOD)	297	45920	75386	731	0.01257276
