@@ -1,9 +1,9 @@
 # Jupyter
-Repository for vhrique's Jupyter notebooks.
+Repository for vhrique's GECCO 2017 Jupyter notebooks.
 
 ## Content
-This Repository is composed of folders for each project.
-
-- **GECCO 2017:** Information, Data and Notebooks for the GECCO 2017 Challenge.
+- **data:** Challenge training and test files;
+- **notebooks:** Jupyter notebooks;
+- **info:** Relevant challenge information.
 
 
